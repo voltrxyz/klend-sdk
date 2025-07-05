@@ -78,8 +78,6 @@
     "zstddec": "^0.1.0"
   },
   "devDependencies": {
-    "@orca-so/sdk": "^1.2.25",
-    "@orca-so/whirlpool-sdk": "^0.4.2",
     "@raydium-io/raydium-sdk-v2": "=0.1.111-alpha",
     "@types/bn.js": "^5.1.1",
     "@types/bs58": "^4.0.1",
